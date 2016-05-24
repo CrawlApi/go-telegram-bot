@@ -1,0 +1,3 @@
+package: github.com/llitfkitfk/go-tele
+import:
+- package: github.com/tucnak/telebot
